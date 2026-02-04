@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<idPkg:Spread xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="7.5">
+	<Spread Self="ub6" FlattenerOverride="Default" AllowPageShuffle="true" ItemTransform="1 0 0 1 0 0" ShowMasterItems="true" PageCount="1" BindingLocation="0" PageTransitionType="None" PageTransitionDirection="NotApplicable" PageTransitionDuration="Medium">
+		<FlattenerPreference LineArtAndTextResolution="300" GradientAndMeshResolution="150" ClipComplexRegions="false" ConvertAllStrokesToOutlines="false" ConvertAllTextToOutlines="false">
+			<Properties>
+				<RasterVectorBalance type="double">50</RasterVectorBalance>
+			</Properties>
+		</FlattenerPreference>
+		<Page Self="ubb" GeometricBounds="0 0 759.6850393700788 566.9291338582677" ItemTransform="1 0 0 1 0 -379.8425196850394" Name="1" AppliedTrapPreset="TrapPreset/$ID/kDefaultTrapStyleName" OverrideList="" AppliedMaster="uca" MasterPageTransform="1 0 0 1 0 0" TabOrder="" GridStartingPoint="TopOutside" UseMasterGrid="true">
+			<Properties>
+				<Descriptor type="list">
+					<ListItem type="string"/>
+					<ListItem type="enumeration">Arabic</ListItem>
+					<ListItem type="boolean">true</ListItem>
+					<ListItem type="boolean">false</ListItem>
+					<ListItem type="long">1</ListItem>
+					<ListItem type="string"/>
+				</Descriptor>
+				<PageColor type="enumeration">UseMasterColor</PageColor>
+			</Properties>
+			<MarginPreference ColumnCount="1" ColumnGutter="12" Top="36" Bottom="36" Left="36" Right="36" ColumnDirection="Horizontal" ColumnsPositions="0 494.92913385826773"/>
+			<GridDataInformation FontStyle="Regular" PointSize="12" CharacterAki="0" LineAki="9" HorizontalScale="100" VerticalScale="100" LineAlignment="LeftOrTopLineJustify" GridAlignment="AlignEmCenter" CharacterAlignment="AlignEmCenter">
+				<Properties>
+					<AppliedFont type="string">Minion Pro</AppliedFont>
+				</Properties>
+			</GridDataInformation>
+		</Page>
+	<TextFrame Self="frame_top_left" ParentStory="story_top_left" ContentType="TextType" ItemTransform="1 0 0 1 30.0 -349.8425196850394" PreviousTextFrame="n" NextTextFrame="n" ItemLayer="ub3">
+                <Properties>
+                    <PathGeometry>
+                        <GeometryPathType PathOpen="false">
+                            <PathPointArray>
+                                <PathPointType Anchor="0 0" LeftDirection="0 0" RightDirection="0 0"/>
+                                <PathPointType Anchor="150 0" LeftDirection="150 0" RightDirection="150 0"/>
+                                <PathPointType Anchor="150 80" LeftDirection="150 80" RightDirection="150 80"/>
+                                <PathPointType Anchor="0 80" LeftDirection="0 80" RightDirection="0 80"/>
+                            </PathPointArray>
+                        </GeometryPathType>
+                    </PathGeometry>
+                </Properties>
+                <TextFramePreference TextColumnCount="1" TextColumnMaxWidth="0"/>
+            </TextFrame><TextFrame Self="frame_top_right" ParentStory="story_top_right" ContentType="TextType" ItemTransform="1 0 0 1 386.9291338582677 -349.8425196850394" PreviousTextFrame="n" NextTextFrame="n" ItemLayer="ub3">
+                <Properties>
+                    <PathGeometry>
+                        <GeometryPathType PathOpen="false">
+                            <PathPointArray>
+                                <PathPointType Anchor="0 0" LeftDirection="0 0" RightDirection="0 0"/>
+                                <PathPointType Anchor="150 0" LeftDirection="150 0" RightDirection="150 0"/>
+                                <PathPointType Anchor="150 80" LeftDirection="150 80" RightDirection="150 80"/>
+                                <PathPointType Anchor="0 80" LeftDirection="0 80" RightDirection="0 80"/>
+                            </PathPointArray>
+                        </GeometryPathType>
+                    </PathGeometry>
+                </Properties>
+                <TextFramePreference TextColumnCount="1" TextColumnMaxWidth="0"/>
+            </TextFrame><TextFrame Self="frame_center" ParentStory="story_center" ContentType="TextType" ItemTransform="1 0 0 1 208.46456692913384 -40.0" PreviousTextFrame="n" NextTextFrame="n" ItemLayer="ub3">
+                <Properties>
+                    <PathGeometry>
+                        <GeometryPathType PathOpen="false">
+                            <PathPointArray>
+                                <PathPointType Anchor="0 0" LeftDirection="0 0" RightDirection="0 0"/>
+                                <PathPointType Anchor="150 0" LeftDirection="150 0" RightDirection="150 0"/>
+                                <PathPointType Anchor="150 80" LeftDirection="150 80" RightDirection="150 80"/>
+                                <PathPointType Anchor="0 80" LeftDirection="0 80" RightDirection="0 80"/>
+                            </PathPointArray>
+                        </GeometryPathType>
+                    </PathGeometry>
+                </Properties>
+                <TextFramePreference TextColumnCount="1" TextColumnMaxWidth="0"/>
+            </TextFrame><TextFrame Self="frame_bottom_left" ParentStory="story_bottom_left" ContentType="TextType" ItemTransform="1 0 0 1 30.0 269.8425196850394" PreviousTextFrame="n" NextTextFrame="n" ItemLayer="ub3">
+                <Properties>
+                    <PathGeometry>
+                        <GeometryPathType PathOpen="false">
+                            <PathPointArray>
+                                <PathPointType Anchor="0 0" LeftDirection="0 0" RightDirection="0 0"/>
+                                <PathPointType Anchor="150 0" LeftDirection="150 0" RightDirection="150 0"/>
+                                <PathPointType Anchor="150 80" LeftDirection="150 80" RightDirection="150 80"/>
+                                <PathPointType Anchor="0 80" LeftDirection="0 80" RightDirection="0 80"/>
+                            </PathPointArray>
+                        </GeometryPathType>
+                    </PathGeometry>
+                </Properties>
+                <TextFramePreference TextColumnCount="1" TextColumnMaxWidth="0"/>
+            </TextFrame><TextFrame Self="frame_bottom_right" ParentStory="story_bottom_right" ContentType="TextType" ItemTransform="1 0 0 1 386.9291338582677 269.8425196850394" PreviousTextFrame="n" NextTextFrame="n" ItemLayer="ub3">
+                <Properties>
+                    <PathGeometry>
+                        <GeometryPathType PathOpen="false">
+                            <PathPointArray>
+                                <PathPointType Anchor="0 0" LeftDirection="0 0" RightDirection="0 0"/>
+                                <PathPointType Anchor="150 0" LeftDirection="150 0" RightDirection="150 0"/>
+                                <PathPointType Anchor="150 80" LeftDirection="150 80" RightDirection="150 80"/>
+                                <PathPointType Anchor="0 80" LeftDirection="0 80" RightDirection="0 80"/>
+                            </PathPointArray>
+                        </GeometryPathType>
+                    </PathGeometry>
+                </Properties>
+                <TextFramePreference TextColumnCount="1" TextColumnMaxWidth="0"/>
+            </TextFrame></Spread>
+</idPkg:Spread>
